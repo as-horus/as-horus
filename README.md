@@ -14,6 +14,13 @@
 
 <br />
 
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [x] Прокачать свой профиль на Github
+* [ ] Пройти курс по Git на Slurm
+* [ ] Создать свой первый проект на Github       
+<!-- TODO-IST:END  -->
+
 
 <!--
 **as-horus/as-horus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
